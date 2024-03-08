@@ -1,0 +1,27 @@
+.mainContainer {
+  border: 2px solid black;
+  border-radius: 1rem;
+  background-color: rgb(25, 202, 202);
+}
+
+.container {
+  border: 2px solid black;
+  border-radius: 1rem;
+  background-color: rgb(191, 255, 255);
+}
+
+.Heading {
+  color: rgb(85, 5, 95);
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.container ul {
+  color: rgb(85, 5, 95);
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.btn {
+  border: 2px solid white !important;
+}
